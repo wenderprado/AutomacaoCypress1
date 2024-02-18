@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-
+describe ('Put Reqres', () => {
 it('Validar Update retornando 201', () => {
 
     const dados = {
@@ -26,4 +26,5 @@ it('Validar Update retornando 201', () => {
 
     })
 
+})
 })
