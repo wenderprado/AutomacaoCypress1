@@ -1,3 +1,5 @@
+/// <reference types="cypress" />
+
 describe('Criar novo usuario ', () => {
   it('Validar a criacao de um novo usuario', () => {
 
