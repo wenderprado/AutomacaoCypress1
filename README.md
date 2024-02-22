@@ -44,6 +44,10 @@ Wender da Silva Prado
 https://www.linkedin.com/in/wender-prado-49a81898/
 ## Licença
 
+The MIT License (MIT)
+
+Copyright ©️ 2024 - Projeto de testes Automatizados - Web e API
+
 Este projeto está licenciado sob a [Licença MIT](LICENSE), o que significa que você tem a liberdade de utilizá-lo conforme desejar, desde que mantenha a atribuição ao autor original.
 
 ---
